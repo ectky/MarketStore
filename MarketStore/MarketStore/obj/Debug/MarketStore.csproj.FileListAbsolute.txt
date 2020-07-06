@@ -1,0 +1,7 @@
+D:\VSProjects\MarketStore\MarketStore\bin\Debug\MarketStore.exe.config
+D:\VSProjects\MarketStore\MarketStore\bin\Debug\MarketStore.exe
+D:\VSProjects\MarketStore\MarketStore\bin\Debug\MarketStore.pdb
+D:\VSProjects\MarketStore\MarketStore\obj\Debug\MarketStore.csprojAssemblyReference.cache
+D:\VSProjects\MarketStore\MarketStore\obj\Debug\MarketStore.csproj.CoreCompileInputs.cache
+D:\VSProjects\MarketStore\MarketStore\obj\Debug\MarketStore.exe
+D:\VSProjects\MarketStore\MarketStore\obj\Debug\MarketStore.pdb
